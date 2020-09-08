@@ -11,4 +11,4 @@ after
 npm run start
 ```
 
-enjoy!
+done!
